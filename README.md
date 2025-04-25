@@ -1,10 +1,10 @@
 # 🧠 Titanic Survival Analysis: Data Cleaning & EDA
 
-> **Week 1 Project** – *Foundations of Machine Learning & Python for Data Science*
+> **Week 1 Assignment**
 
 ## 📌 Objective
 
-Perform data cleaning and exploratory data analysis (EDA) on the Titanic dataset from the [Kaggle Titanic competition](https://www.kaggle.com/competitions/titanic), using Python and core data science libraries.
+Perform data cleaning and exploratory data analysis (EDA) on the Titanic dataset from the [Kaggle Titanic competition](https://www.kaggle.com/competitions/titanic), using Python and data science libraries.
 
 ---
 
