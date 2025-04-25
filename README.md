@@ -4,7 +4,7 @@
 
 ## 📌 Objective
 
-Perform data cleaning and exploratory data analysis (EDA) on the Titanic dataset from the [Kaggle Titanic competition](https://www.kaggle.com/competitions/titanic), using Python and data science libraries.
+Perform data cleaning and exploratory data analysis (EDA) on the Titanic dataset from the [Titanic: Machine Learning from Disaster (Kaggle)](https://www.kaggle.com/c/titanic), using Python and data science libraries.
 
 ---
 
